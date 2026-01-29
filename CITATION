@@ -1,0 +1,14 @@
+How to cite this project:
+
+Martin Huang. (2026). ECON 580 Git Tutorial Practice Repository.
+Version 1.0. University of Wisconsin-Madison.
+Available at: https://github.com/chuang429/econ580
+
+BibTeX format:
+@software{huang_econ580_2026,
+  author = {Huang, Martin},
+  title = {ECON 580 Git Tutorial Practice Repository},
+  year = {2026},
+  publisher = {GitHub},
+  url = {https://github.com/chuang429/econ580}
+}

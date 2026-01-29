@@ -1,1 +1,0 @@
-# Fresh Git Tutorial Project

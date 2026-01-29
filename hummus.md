@@ -4,3 +4,6 @@
 * lemon
 * olive oil
 * salt
+
+## Instructions
+1. Blend all ingredients together.
